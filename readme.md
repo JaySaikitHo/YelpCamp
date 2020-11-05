@@ -1,6 +1,6 @@
 #YelpCamp
 
-a code along project to practice Express,Javascript and MongoDB from Udemy Colt Steele WebDev Bootcamp. I got experience in RESTFUL for routes and using EJS to render the pages. I learned how to deploy on Heroku and use middleware for authenticaction and tracking user ownership of assets.
+a code along project to practice Express,Javascript and MongoDB from Udemy Colt Steele's WebDev Bootcamp. I got experience in using RESTFUL routes and using EJS to render the pages. I learned how to deploy on Heroku and use middleware for authenticaction and tracking user ownership of assets.
 
 ##Initial Setup
 * Add Landing Page
