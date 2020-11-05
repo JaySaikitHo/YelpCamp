@@ -1,6 +1,6 @@
 #YelpCamp
 
-a code a long project to practice Express,Javascript and MongoDB from Udemy Colt Steel Webdev Bootcamp. I learned how to deploy and use middleware for authenticaction and tracking user ownership of assets.
+a code a long project to practice Express,Javascript and MongoDB from Udemy Colt Steele WebDev Bootcamp. I learned how to deploy and use middleware for authenticaction and tracking user ownership of assets.
 
 ##Initial Setup
 * Add Landing Page
